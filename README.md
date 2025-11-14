@@ -31,6 +31,8 @@ Female passengers had a significantly higher survival rate than males.
 First-class passengers had better survival outcomes compared to other classes.
 Fare and Class were strongly correlated — higher fares were linked with higher survival chances.
 Most passengers were within the 20–40 years age range.
+
+
 2.COFFEE CHAIN DATASET VISUALIZATION
 Dataset Description:
 The Coffee Chain dataset contains sales, profit, marketing, and budget information for a retail coffee business across different states and markets.
